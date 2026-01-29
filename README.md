@@ -21,15 +21,15 @@ Projeto criado com foco em aprendizado e portfólio para vagas **Back-end Java J
 ## Estrutura do Projeto
 
 src/main/java/com/gabriel/springbootapi
-├── controller
-│ └── UsuarioController.java
-├── model
-│ └── Usuario.java
-├── repository
-│ └── UsuarioRepository.java
-├── service
-│ └── UsuarioService.java
-└── SpringbootapiApplication.java
+├── controller 
+│ └── UsuarioController.java 
+├── model 
+│ └── Usuario.java 
+├── repository 
+│ └── UsuarioRepository.java 
+├── service 
+│ └── UsuarioService.java 
+└── SpringbootapiApplication.java 
 
 ---
 
