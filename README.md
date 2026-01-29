@@ -22,13 +22,21 @@ Projeto criado com foco em aprendizado e portfólio para vagas **Back-end Java J
 
 src/main/java/com/gabriel/springbootapi
 ├── controller 
+
 │ └── UsuarioController.java 
+
 ├── model 
+
 │ └── Usuario.java 
+
 ├── repository 
+
 │ └── UsuarioRepository.java 
+
 ├── service 
+
 │ └── UsuarioService.java 
+
 └── SpringbootapiApplication.java 
 
 ---
